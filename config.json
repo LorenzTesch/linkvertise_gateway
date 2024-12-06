@@ -1,0 +1,10 @@
+{
+    "host": "https://example.com",
+    "path": "/linkgate/",
+    "linkType": "static",
+    "user": {
+        "id": "1111111",
+        "token": "Bearer 1111111|41FD77B087A5B7A1D24626E58BA54085911A072A"
+    },
+    "turns": 3
+}
